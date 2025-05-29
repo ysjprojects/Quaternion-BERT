@@ -1,7 +1,5 @@
 # Efficient BERT Architecture using Quaternions
 
-## Figures
-
 ![Figure 1](assets/img-01.png)
 ![Figure 2](assets/img-02.png)
 ![Figure 3](assets/img-03.png)
