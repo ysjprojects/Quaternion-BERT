@@ -13,4 +13,3 @@
 ![Figure 9](assets/img-09.png)
 ![Figure 10](assets/img-10.png)
 ![Figure 11](assets/img-11.png)
-![Figure 12](assets/img-12.png)
